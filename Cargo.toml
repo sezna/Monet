@@ -1,0 +1,15 @@
+[package]
+name = "genetic_painting"
+version = "0.1.0"
+authors = ["Alex <ahansen2@trinity.edu>"]
+
+[dependencies]
+palette = "0.2"
+image = "0.20.1"
+imageproc = "0.16.0"
+rand = "0.3"
+clap = "2.26.2"
+
+[dependencies.rsgenetic]
+git = "http://github.com/sezna/RsGenetic"
+branch = "with_display"
