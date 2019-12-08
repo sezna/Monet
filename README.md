@@ -4,7 +4,7 @@ Paints images using genetic algorithms.
 Read about this project [here](https://csce.ucmss.com/cr/books/2018/LFS/CSREA2018/IPC3627.pdf).
 
 A sample command would be: 
-`monet --file image.jpg --iterations 10 -poplation 1000 --selector parmaximize --strokes 500 --strokewidth 20`
+`monet --file image.jpg --iterations 10 --population 1000 --selector parmaximize --strokes 500 --strokewidth 20`
 
 To see help on all available commands, use:
 `monet --help`
